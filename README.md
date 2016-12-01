@@ -18,9 +18,9 @@ finding your errors and fixing them will make you a better developer. The chrome
 *After this workshop, developers will be able to:*
 
 - use the console tab to gather diagnostic information about their code (read various error messages and logs of their own creation).
-- use the console tab to interact with the JavaScript on the page.
+- use the sources tab to view the JavaScript on the page.
 - use the elements tab to view an manipulate the DOM and styling.
-- view their sites in mobile mode with the device mode
+- view their sites in mobile mode with the device mode.
 
 ### Where should we be now?
 <!-- call out the skills that are prerequisites -->
